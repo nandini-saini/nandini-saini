@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nandini-saini
+- 👋 Hi, I’m Nandini Saini.
 - 👀 I’m interested in machine learning, deep learning, computer vision.
 
 
